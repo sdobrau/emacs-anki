@@ -11,7 +11,7 @@ Review Anki cards in emacs.
 * Emacs 27.1 or newer, either graphical or terminal. Graphical Emacs uses a
   child frame near point; terminal Emacs uses the echo area.
 * A configured deck different name you configure.
-```
+
 ## Emacs setup
 
 Add the directory to `load-path`, require the package, set at least the deck
